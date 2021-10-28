@@ -3591,11 +3591,11 @@
                     label: "More",
                     icon: "MoreIcon",
                     items: [{
-                        label: "Gov",
+                        label: "SnapShot",
                         href: "https://snapshot.org/#/flintstonefinance.eth",
                         external: !0
                     }, {
-                        label: "Gits",
+                        label: "Github",
                         href: "/"
                     }]
                 }],
